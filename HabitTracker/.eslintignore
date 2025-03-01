@@ -1,0 +1,33 @@
+# Build outputs
+build/
+dist/
+android/
+ios/
+web-build/
+
+# Dependencies
+node_modules/
+
+# Generated files
+*.generated.*
+*.d.ts
+expo-env.d.ts
+
+# Coverage reports
+coverage/
+
+# Expo
+.expo/
+.expo-shared/
+
+# Assets
+assets/
+
+# Configuration files
+babel.config.js
+metro.config.js
+jest.config.js
+
+# Troubleshooting and scripts
+TROUBLESHOOTING.md
+update-packages.bat 
